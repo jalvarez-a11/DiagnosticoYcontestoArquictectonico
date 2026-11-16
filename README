@@ -1,0 +1,6 @@
+Resumen ejecutivo
+Nombre del producto: Plataforma Centralizada de Gestión de Entregas (PCGE).
+Problema principal: la empresa recibe pedidos por varios canales, administra inventarios distribuidos y coordina entregas con distintas rutas y repartidores, pero no tiene una vista centralizada del estado real de cada pedido. Esto produce duplicación de información, inconsistencias, retrasos, errores operativos y poca trazabilidad.
+Usuarios y actores: clientes, operadores de tienda, administradores de almacén, repartidores, soporte al cliente y sistemas externos de pagos, geolocalización, notificaciones y ERP/CRM.
+Objetivo: centralizar la información de los pedidos y facilitar la validación de inventario, asignación de rutas, seguimiento de entregas y gestión de incidencias.
+Alcance inicial: registrar y consultar pedidos, gestionar estados, consultar inventario, coordinar rutas y repartidores, registrar entregas e incidencias. No se seleccionarán todavía frameworks ni se implementará software.
