@@ -1,5 +1,7 @@
 # DiagnosticoYcontestoArquictectonico
 
+LINK VIDEO PRESENTACION: https://youtu.be/_531mLAfpoo
+
 Resumen ejecutivo
 Nombre del producto: Plataforma Centralizada de Gestión de Entregas (PCGE).
 Problema principal: la empresa recibe pedidos por varios canales, administra inventarios distribuidos y coordina entregas con distintas rutas y repartidores, pero no tiene una vista centralizada del estado real de cada pedido. Esto produce duplicación de información, inconsistencias, retrasos, errores operativos y poca trazabilidad.
